@@ -1,0 +1,29 @@
+ Departments are:
+[Textile, Chemical, Computer Science, Mechanical, Electric, Electronic, Electrical, Security]
+
+Students enrolled after 2018 are:
+[Jasna Kaur, Sanvi Pandey]
+
+Student details whose gender is Male and department is Computer Science :
+Name: Wang Liu, ID:188, Gender:Male, Department:Computer Science, Year of enrollment:2015, Till date:80.0, Age:20
+Name: Anuj Chettiar, ID:277, Gender:Male, Department:Computer Science, Year of enrollment:2017, Till date:57.5, Age:18
+
+Number of students per gender are:
+{Male=11, Female=6}
+
+Average age of male and female students is: 18
+
+Details of student with high percentage are:
+Name: Nicolus Den, ID:244, Gender:Male, Department:Electronic, Year of enrollment:2017, Till date:95.8, Age:16
+
+Number of students in each department are :
+{Chemical=1, Textile=2, Mechanical=1, Computer Science=5, Electric=1, Electronic=4, Electrical=1, Security=2}
+
+Per Department average of percentages are  :
+{Chemical=70.0, Textile=65.2, Mechanical=50.2, Computer Science=67.78, Electric=72.4, Electronic=89.375, Electrical=80.0, Security=76.0}
+
+Youngest Male student in Electronic department is:
+Name: Nicolus Den, ID:244, Gender:Male, Department:Electronic, Year of enrollment:2017, Till date:95.8, Age:16
+
+NUmber of male and female in Computer Science department are:
+{Male=2, Female=3}
